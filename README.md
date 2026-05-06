@@ -55,6 +55,12 @@
 
 ## 安装
 
+使用petdex安装
+https://petdex.crafter.run/zh/pets/duoduo
+``` bash
+npx petdex install duoduo
+```
+
 将 `duoduo` 文件夹复制到 Codex pets 目录：
 
 ```bash
